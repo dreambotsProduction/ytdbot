@@ -30,9 +30,9 @@ async def start(event):
             [Button.inline("HOW TO USE", data="usei")],
             [
                 Button.url(
-                    "SOURCE CODE", url="https://github.com/kaif-00z/YoutubeDownloderBot"
+                    "Join", url="http://t.me/kerala_friendship"
                 ),
-                Button.url("DEVELOPER", url="https://t.me/Kaif_00z"),
+                Button.url("DEVELOPER", url="https://t.me/xox_dream"),
             ],
         ],
     )
